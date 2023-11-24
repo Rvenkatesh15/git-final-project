@@ -2,7 +2,7 @@
 public class MyClass {
     // Default constructor
     public MyClass() {
-        // Initialization code here
+        // Initialization/start the code here with simple logic
     }
 
     // Parameterized constructor
